@@ -11,16 +11,16 @@
     <nav class="navbar navbar-expand-sm bg-light navbar-light">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="register.html">Register</a>
+            <a class="nav-link" href="register.php">Register</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="login.html">Login</a>
+            <a class="nav-link" href="login.php">Login</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">Contact Us</a>
+            <a class="nav-link" href="contact.php">Contact Us</a>
           </li>
         </ul>
       </nav>
